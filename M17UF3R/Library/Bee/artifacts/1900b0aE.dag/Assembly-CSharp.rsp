@@ -354,6 +354,7 @@
 -analyzer:"D:/uNiTy/2022.3.11f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 "Assets/Polytope Studio/Lowpoly_Demos/Environment_Free/Helpers/MouseLook.cs"
 "Assets/Polytope Studio/Lowpoly_Demos/Environment_Free/Helpers/PlayerMovement.cs"
+"Assets/Sprites/Animations/a/NewBehaviourScript.cs"
 -langversion:9.0
 
 /deterministic
