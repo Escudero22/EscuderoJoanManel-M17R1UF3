@@ -58,9 +58,9 @@ AnimatorStateTransition:
   m_Mute: 0
   m_IsExit: 0
   serializedVersion: 3
-  m_TransitionDuration: 0.25
+  m_TransitionDuration: 0
   m_TransitionOffset: 0
-  m_ExitTime: 0.8101266
+  m_ExitTime: 0.992328
   m_HasExitTime: 1
   m_HasFixedDuration: 1
   m_InterruptionSource: 0
@@ -283,6 +283,15 @@ AnimatorController:
     - serializedVersion: 2
       m_State: {fileID: -5218331115038533376}
       m_Motion: {fileID: -203655887218126122, guid: 9c3d57da483fcc74ab8a6820cb1d5f46, type: 3}
+    - serializedVersion: 2
+      m_State: {fileID: -723118840705937960}
+      m_Motion: {fileID: -203655887218126122, guid: dcf55f1a94650f140bf53702a81b1526, type: 3}
+    - serializedVersion: 2
+      m_State: {fileID: -2873428814422629820}
+      m_Motion: {fileID: 4061839508520268033, guid: dcf55f1a94650f140bf53702a81b1526, type: 3}
+    - serializedVersion: 2
+      m_State: {fileID: 7954124456940198273}
+      m_Motion: {fileID: -2061910772549006292, guid: dcf55f1a94650f140bf53702a81b1526, type: 3}
     m_Behaviours: []
     m_BlendingMode: 0
     m_SyncedLayerIndex: 0
